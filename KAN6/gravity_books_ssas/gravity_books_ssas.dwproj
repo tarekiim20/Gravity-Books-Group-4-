@@ -60,7 +60,7 @@
           <ConfigurationSetting>
             <Id>Gravity Books Dwh</Id>
             <Name>Gravity Books Dwh</Name>
-            <Value xsi:type="xsd:string">Provider=SQLOLEDB.1;Data Source=.;Integrated Security=SSPI;Initial Catalog=gravity_books_dwh</Value>
+            <Value xsi:type="xsd:string">Provider=SQLOLEDB.1;Data Source=الأشليمي\SQLEXPRESS;Integrated Security=SSPI;Initial Catalog=gravity_books_dwh</Value>
           </ConfigurationSetting>
         </ConnectionMappings>
         <ConnectionSecurityMappings>

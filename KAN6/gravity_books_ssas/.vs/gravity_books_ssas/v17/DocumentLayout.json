@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Power BI\\Gravity-Books (4)\\gravity_books_ssas\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{79BA6338-9997-4197-AEA4-5257A6EB2A85}|gravity_books_ssas.dwproj|E:\\Power BI\\Gravity-Books (4)\\gravity_books_ssas\\Gravity Books Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{79BA6338-9997-4197-AEA4-5257A6EB2A85}|gravity_books_ssas.dwproj|solutionrelative:Gravity Books Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\OneDrive\\Desktop\\Gravity-Books-Group-4-\\KAN6\\gravity_books_ssas\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,19 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Gravity Books Cube.cube [Design]",
-              "DocumentMoniker": "E:\\Power BI\\Gravity-Books (4)\\gravity_books_ssas\\Gravity Books Cube.cube",
-              "RelativeDocumentMoniker": "Gravity Books Cube.cube",
-              "ToolTip": "E:\\Power BI\\Gravity-Books (4)\\gravity_books_ssas\\Gravity Books Cube.cube [Design]",
-              "RelativeToolTip": "Gravity Books Cube.cube [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-18T08:21:10.4Z",
-              "EditorCaption": " [Design]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
             }
           ]
         }
